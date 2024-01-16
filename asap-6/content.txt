@@ -1,0 +1,14 @@
+[Question]: 
+Describe the pathogenesis of the gene or protein associated with Alzheimer's disease (AD).
+
+[Key elements]:
+- Content related to Alzheimer's disease with related keywords. AD-related keywords include, but are not limited to: Alzheimer's disease and similar diseases (Alzheimer's disease, Huntington's disease, Parkinson's disease and other neurodegenerative diseases); AD-related genes or proteins (APOE, PSEN1, PSEN2, MAPT, tau, Abeta, etc.); AD-related pathological symptoms or clinical manifestations (Cognitive decline, behavioral disorders, memory loss, Neurogenic fiber tangles, etc.)
+- The relationship between genes or mutations and biological events is either positively or negatively regulated. The relationships can be briefly divided into three categories: Regulation (association, correlation, etc.), Positive Regulation (promotion, up-regulation, etc.), Negative Regulation (suppression, down-regulation, etc.).
+- The type of mutation in the content is explicit. Explicit mutation types are mutations that can be categorized as (but is not limited to): Point Mutation, Chromosomal Structural Variation, and Gene Copy Number Variation.
+- The content is a conclusive, affirmative statement, not a next step plan.
+
+[Marking Rubric]:
+3 points: Three key elements and contain AD-related keywords;
+2 points: Three key elements but no AD-related keywords;
+1 point: Two key element;
+0 points: Other.

@@ -1,0 +1,35 @@
+[Question]: 
+Describe the pathogenesis of the gene or protein associated with Alzheimer's disease (AD).
+
+[Key elements]:
+- Content related to Alzheimer's disease with related keywords. AD-related keywords include, but are not limited to: Alzheimer's disease and similar diseases (Alzheimer's disease, Huntington's disease, Parkinson's disease and other neurodegenerative diseases); AD-related genes or proteins (APOE, PSEN1, PSEN2, MAPT, tau, Abeta, etc.); AD-related pathological symptoms or clinical manifestations (Cognitive decline, behavioral disorders, memory loss, Neurogenic fiber tangles, etc.)
+- The relationship between genes or mutations and biological events is either positively or negatively regulated. The relationships can be briefly divided into three categories: Regulation (association, correlation, etc.), Positive Regulation (promotion, up-regulation, etc.), Negative Regulation (suppression, down-regulation, etc.).
+- The type of mutation in the content is explicit. Explicit mutation types are mutations that can be categorized as (but is not limited to): Point Mutation, Chromosomal Structural Variation, and Gene Copy Number Variation.
+- The content is a conclusive, affirmative statement, not a next step plan.
+
+[Marking Rubric]:
+3 points: Three key elements and contain AD-related keywords;
+2 points: Three key elements but no AD-related keywords;
+1 point: Two key element;
+0 points: Other.
+
+[Statement]: Coherently, recent evidence supports a role for mutant huntingtin in dysregulating the expression of four RNA-binding proteins (PTBP1, SFRS4, RBM4, SREK1) in HD post mortem brains, thus, correlating with abnormal splicing in the central nervous system.
+[Score and Rationale]: 3 points; The statement is a conclusive statement in that "HD" is associated with AD and it states that the type of mutation in the protein is "dysregulating the expression".
+
+[Statement]: Overexpressing human tau in an AD mouse model with APP/PS1 mutations led to an increase in plaque size but no change in synapse loss when compared with APP/PS1 mice lacking the tau transgene.
+[Score and Rationale]: 3 point; The statement is a conclusive statement in that "AD, tau" is associated with AD and indicates that the definitive mutation type is "APP/PS1 mutations" and the entity relationship is "increase".
+
+[Statement]: Overexpression of TREM2 promotes microglia phagocytosis and suppresses neuroinflammation.
+[Score and Rationale]: 3 points; The statement is a conclusive statement in that "neuroinflammation" is associated with AD and indicates that the definitive mutation type is "Overexpression" and the entity relationship is "promotes".
+
+[Statement]: RESULTS: At age 6 months, we found that the percent area of 6E10+ deposits and plaque-associated microglia in Inpp5d knockdown mice were increased compared to controls.
+[Score and Rationale]: 2 points; The statement indicates that the definitive mutation type is "knockdown" and the entity relationship is "increased", but it is not certain that it is AD-related.
+
+[Statement]: HD results from the mutation in the Huntingtin (Htt) gene.
+[Score and Rationale]: 1 points; The statement is a conclusive statement in that "HD" is associated with AD, but it does not contain a clear mutation type and entity relationship.
+
+[Statement]: Silencing DMPK contributes to DM1 treatment.
+[Score and Rationale]: 1 points; The statement indicates that the definitive mutation type is "Silencing", but the entity relationship cannot be determined to be positive or negative, and it cannot be determined to be AD-related content.
+
+[Statement]: However, conclusive diagnosis of NPC needs the presence of mutations in the NPC1 or NPC2 genes.
+[Score and Rationale]: 0 points; The statement does not contain a clear mutation type and entity relationship and cannot be judged to be associated with AD.
