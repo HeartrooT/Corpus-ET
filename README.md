@@ -9,9 +9,9 @@ Lab PI: Jingbo Xia
 
 Affiliation: Hubei Key Lab of Agricultural Bioinformatics, Huazhong Agricultural University, Wuhan, China
 
-Project homepage URL: https://sites.google.com/view/corpus-et/#h.3j3vg09zwk8k
+##Project homepage URL: https://sites.google.com/view/corpus-et/#h.3j3vg09zwk8k
 
-Project Slide: https://www.google.com/url?q=https://docs.google.com/presentation/d/1MOVAXBKjSHtr4KGyNJ-7f6noVQNjEmamkuqZ004cDM4/edit?usp%3Dsharing&sa=D&source=editors&ust=1705370564249821&usg=AOvVaw0vNSMM753fzGdAbiN8oow1
+##Project Slide: https://www.google.com/url?q=https://docs.google.com/presentation/d/1MOVAXBKjSHtr4KGyNJ-7f6noVQNjEmamkuqZ004cDM4/edit?usp%3Dsharing&sa=D&source=editors&ust=1705370564249821&usg=AOvVaw0vNSMM753fzGdAbiN8oow1
 
 # Project Background
 
@@ -31,3 +31,12 @@ During BLAH8, we plan to explore the possibilities of LLM for existing corpus ex
 - Issue 2. "AGAC to AD," a case study for corpus expansion and topic transferring. (Transfer AGAC Corpus to AD-specific genetic disease by using LLM.)
 - Issue 3. More applications for other corpora.
 - Issue 4. Tool integration with PubAnnotation.
+
+# References
+```bib
+Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes
+https://arxiv.org/pdf/2305.02301.pdf
+
+Distilling ChatGPT for Explainable Automated Student Answer Assessment
+https://arxiv.org/pdf/2305.12962.pdf
+```
