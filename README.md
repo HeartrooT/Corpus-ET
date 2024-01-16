@@ -9,6 +9,10 @@ Lab PI: Jingbo Xia
 
 Affiliation: Hubei Key Lab of Agricultural Bioinformatics, Huazhong Agricultural University, Wuhan, China
 
+Project homepage URL: https://sites.google.com/view/corpus-et/#h.3j3vg09zwk8k
+
+Project Slide: https://www.google.com/url?q=https://docs.google.com/presentation/d/1MOVAXBKjSHtr4KGyNJ-7f6noVQNjEmamkuqZ004cDM4/edit?usp%3Dsharing&sa=D&source=editors&ust=1705370564249821&usg=AOvVaw0vNSMM753fzGdAbiN8oow1
+
 # Project Background
 
 In the era of LLM (Large Language Models), how to develop an NLP pipeline for automatic corpus expansion is an interesting issue within the BioNLP community. Corpus construction plays a key role in downstream model building and knowledge discovery in the BioNLP community. However, common corpus construction often has two obvious limitations:
